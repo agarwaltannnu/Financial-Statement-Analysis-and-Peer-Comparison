@@ -40,6 +40,9 @@ A short written summary of key takeaways from the analysis — what the numbers 
 
 - Microsoft Excel (pivot tables, formulas, charts, conditional formatting)
 - Data source: Screener.in (public financial data)
+- ## Dashboard Preview
+
+![Dashboard](Screenshot  2026-07-01 040746.png)
 
 
 ## How to use
