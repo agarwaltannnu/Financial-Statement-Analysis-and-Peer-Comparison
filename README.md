@@ -42,7 +42,7 @@ A short written summary of key takeaways from the analysis — what the numbers 
 - Data source: Screener.in (public financial data)
 - ## Dashboard Preview
 
-![Dashboard](Screenshot  2026-07-01 040746.png)
+![Dashboard](dashboard.png)
 
 
 ## How to use
