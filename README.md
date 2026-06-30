@@ -1,10 +1,10 @@
 # Financial Statement Analysis — Infosys Ltd.
 
-An Excel-based financial analysis of Infosys Limited covering 5 years of historical data (FY22–FY26), built as part of learning financial modeling and equity research basics. The project includes ratio analysis, trend visualization, and a peer comparison with TCS and Wipro.
+This project analyzes the financial performance of Infosys Ltd. using five years of historical financial data (FY22–FY26). Built in Microsoft Excel, it demonstrates practical application of financial statement analysis through ratio analysis, trend visualization, interactive dashboards, and peer comparison with TCS and Wipro to assess profitability, operational efficiency, and financial health.
 
 ## Why Infosys
 
-Infosys is one of India's largest and most consistently performing IT companies, which makes it a clean subject for analysis — stable financials, publicly available data, and enough peers in the same sector to do a meaningful comparison. I used screener.in as the primary data source.
+Infosys is one of India's largest and most consistently performing IT companies, which makes it a clean subject for analysis — stable financial performance, publicly available data, and enough peers in the same sector to do a meaningful comparison. I used screener.in as the primary data source.
 
 ## What's in the file
 
@@ -20,7 +20,7 @@ Five ratios calculated year-over-year with their formulas:
 - Asset Turnover (Revenue ÷ Total Assets)
 
 **Trend Analysis**
-Visual charts showing how Revenue, Net Profit, Net Margin, ROE, and Operating Cash Flow have moved over FY17–FY26. The longer 10-year window helps spot whether the recent performance is a trend or a blip.
+Visual charts showing how Revenue, Net Profit, Net Margin, ROE, and Operating Cash Flow have moved over FY17–FY26.The 10-year trend provides additional context to understand whether recent performance reflects a long-term pattern or a short-term fluctuation.
 
 **Peer Comparison**
 Side-by-side comparison of Infosys, TCS, and Wipro on 10 metrics for FY26 — Revenue, Net Profit, Margins, Revenue Growth, ROE, ROA, Debt-to-Equity, P/E, Operating Cash Flow, and Employee Count. Includes an analyst verdict summarizing where each company stands.
